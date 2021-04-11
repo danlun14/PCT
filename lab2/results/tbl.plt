@@ -1,5 +1,5 @@
 set terminal png size 1000, 450 font 'Verdana, 10'
-set output 'total.png' 
+set output 'result.png' 
 set title "DGEMV"
 set ylabel 'Num threads'
 set xlabel 'Speedup'
