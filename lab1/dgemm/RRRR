@@ -1,0 +1,13 @@
+Elapsed time V1: 5.032017 sec.                                  4 250 000 cm
+
+Elapsed time V2: 3.590151 sec. speedup - 1.401617               3 200 000 cm
+
+Elapsed time BS = 2: 4.022103 sec. speedup - 1.251091
+Elapsed time BS = 4: 3.374465 sec. speedup - 1.491204
+Elapsed time BS = 8: 3.221026 sec. speedup - 1.562240
+Elapsed time BS = 16: 3.178563 sec. speedup - 1.583111
+Elapsed time BS = 32: 3.146517 sec. speedup - 1.599234
+Elapsed time BS = 64: 3.141186 sec. speedup - 1.601948
+Elapsed time BS = 128: 3.188308 sec. speedup - 1.578272
+Elapsed time BS = 256: 3.162038 sec. speedup - 1.591384
+Elapsed time BS = N: 3.140962 sec. speedup - 1.602062
