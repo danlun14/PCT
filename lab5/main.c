@@ -4,7 +4,6 @@
 #include <string.h>
 
 // #define N 10000000
-#define THRESHOLD 1000
 
 void swap(int *a, int *b)
 {
